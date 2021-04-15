@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-Sanjay
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Github 
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m a highly motivated individual who always loves to learn new technologies and solve problems. 
+- 💞️ I love to analyze large sets of data and create a machine learning models with the goal to help businesses to make better decisions. 
 - 📫 How to reach me sanjayar2200@gmail.com
 
 <!---
